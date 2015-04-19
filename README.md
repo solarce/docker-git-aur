@@ -3,7 +3,8 @@ docker-git-aur
 
 A quick hack up of the docker-git from AUR + https://projects.archlinux.org/svntogit/community.git/tree/trunk/PKGBUILD?h=packages/docker to get a 1.6.0 package going
 
-You can grab a copy of my build of the package from [bits.inatree.org/docker-1:1.6.0-1-x86_64.pkg.tar.xz](bits.inatree.org/docker-1:1.6.0-1-x86_64.pkg.tar.xz)
+You can grab a copy of my build of the package from [https://solarce.org/docker-1:1.6.0-1-x86_64.pkg.tar.xz](https://solarce.org/docker-1:1.6.0-1-x86_64.pkg.tar.xz)
+- md5sum: 910a9d855e5f0d8d3e24030394a402f4 - [https://solarce.org/docker-1:1.6.0-1-x86_64.pkg.tar.xz.md5sum](https://solarce.org/docker-1:1.6.0-1-x86_64.pkg.tar.xz.md5sum)
 
 Output from build:
 
